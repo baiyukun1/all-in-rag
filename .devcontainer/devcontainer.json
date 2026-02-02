@@ -1,6 +1,6 @@
 {
   "hostRequirements": {
-   "cpus":8,
+   "cpus":2,
    "内存":"8GB",
    "存储": "50GB"
 },
