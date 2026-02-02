@@ -1,8 +1,8 @@
 {
   "hostRequirements": {
-   "cpus":2,
-   "内存":"8GB",
-   "存储": "100GB"
+   "cpus": 2,
+   "memory": "8gb",
+   "storage": "100gb"
 },
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {}
